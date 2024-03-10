@@ -472,7 +472,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "CAD Renders/JakesPad.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""

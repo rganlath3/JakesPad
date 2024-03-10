@@ -4,4 +4,5 @@
   (lib (name "keyswitches.pretty-master")(type "KiCad")(uri "${KIPRJMOD}/Libraries/keyswitches.pretty-master")(options "")(descr ""))
   (lib (name "mcu")(type "KiCad")(uri "${KIPRJMOD}/Libraries/kleeb-master/mcu.pretty")(options "")(descr ""))
   (lib (name "JakesPadImages")(type "KiCad")(uri "${KIPRJMOD}/JakesPadImages.pretty")(options "")(descr ""))
+  (lib (name "RanilCustom")(type "KiCad")(uri "${KIPRJMOD}/Libraries/RanilCustom.pretty")(options "")(descr ""))
 )
